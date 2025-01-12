@@ -176,7 +176,7 @@ li{
     padding: 19px 170px 19px 40px;
     /*არმომეწონა ეს აზრი მაგრამ, პადინგებით იყო ფიგმაში (( */
     width: 1088px;
-    height: 307px;
+   
     gap: 259px;
     border-radius: 16px;
     background: #222224;
@@ -193,7 +193,6 @@ li{
 #full_box{
     display: flex;
     width: 878px;
-    height: 269px;
     gap: 256px;
 }
 
