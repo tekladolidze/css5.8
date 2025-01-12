@@ -142,8 +142,8 @@ li{
     border-left: 1px solid #FAE101;
     color: #FAE101;
     font-size: 14px;
-    border: 0;
     font-style: normal;
+    background: #141414;
     font-weight: 400;
    }
 
@@ -291,7 +291,6 @@ h2+p{
     height: 72px;
     margin-top: 30px;
     gap: 8px;
-    background-color: #46086f;
 }
 
 #data_title{
